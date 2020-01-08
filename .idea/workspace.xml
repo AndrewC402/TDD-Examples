@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="373ac46e-cf30-4653-a194-5c36206bf770" name="Default Changelist" comment="" />
+    <list default="true" id="373ac46e-cf30-4653-a194-5c36206bf770" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/numbers/NumberCruncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/numbers/NumberCruncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/numbers/NumberCruncherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/numbers/NumberCruncherTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1W6jIeisdV66M45kJAYrRzVJo8E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +38,107 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.qa.numbers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NumberCruncherTest.find_highest_number_in_array">
+    <configuration name="NumberCruncherTest.find_highest_number_in_array" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.numbers" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.numbers.NumberCruncherTest" />
+      <option name="METHOD_NAME" value="find_highest_number_in_array" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberCruncherTest.find_highest_number_in_array_of_one" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.numbers" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.numbers.NumberCruncherTest" />
+      <option name="METHOD_NAME" value="find_highest_number_in_array_of_one" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberCruncherTest.find_highest_number_in_array_of_two" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.numbers" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.numbers.NumberCruncherTest" />
+      <option name="METHOD_NAME" value="find_highest_number_in_array_of_two" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberCruncherTest.find_highest_number_in_array_of_two_where_array_ends_with_largest_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.numbers" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.numbers.NumberCruncherTest" />
+      <option name="METHOD_NAME" value="find_highest_number_in_array_of_two_where_array_ends_with_largest_number" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberCruncherTest.find_highest_number_in_array_of_two_where_array_starts_with_largest_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.numbers" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.numbers.NumberCruncherTest" />
+      <option name="METHOD_NAME" value="find_highest_number_in_array_of_two_where_array_starts_with_largest_number" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberCruncherTest.find_highest_number_in_array" />
+        <item itemvalue="JUnit.NumberCruncherTest.find_highest_number_in_array_of_two_where_array_ends_with_largest_number" />
+        <item itemvalue="JUnit.NumberCruncherTest.find_highest_number_in_array_of_two_where_array_starts_with_largest_number" />
+        <item itemvalue="JUnit.NumberCruncherTest.find_highest_number_in_array_of_two" />
+        <item itemvalue="JUnit.NumberCruncherTest.find_highest_number_in_array_of_one" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,9 +166,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="151" key="#Project_Structure" timestamp="1578477259414">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="151" key="#Project_Structure/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578477259414" />
+    <state x="370" y="269" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578478465631">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="269" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578478465631" />
+    <state x="292" y="52" key="CommitChangelistDialog2" timestamp="1578478872761">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="292" y="52" key="CommitChangelistDialog2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578478872761" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1578481823727">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481823727" />
+    <state width="1220" height="261" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1578479274862" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1578481823726">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481823726" />
+    <state width="1220" height="261" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1578479274862" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1578481823726">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481823726" />
+    <state width="1220" height="261" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1578479274862" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1578481823726">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481823726" />
+    <state width="1220" height="261" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1578479274862" />
+    <state x="1400" y="67" key="SettingsEditor" timestamp="1578479376795">
+      <screen x="1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="1400" y="67" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1578479376795" />
     <state x="336" y="317" key="com.intellij.ide.util.TipDialog" timestamp="1578476863363">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="336" y="317" key="com.intellij.ide.util.TipDialog/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578476863363" />
+    <state x="1583" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1578479369359">
+      <screen x="1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="1583" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1578479369359" />
   </component>
 </project>
